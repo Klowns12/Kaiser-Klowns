@@ -9,8 +9,8 @@
     </header>
 
     <section class="py-16 px-4">
-      <h2 class="text-2xl font-bold text-center mb-8">Our Products</h2>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <h2 class="text-2xl font-black text-center mb-8">New Arrivals</h2>
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
         <div class="bg-white rounded-lg shadow-lg p-4">
           <img src="path/to/image1.jpg" alt="Product 1" class="w-full h-48 object-cover rounded-t-lg">
           <h3 class="text-lg font-semibold mt-2">Product 1</h3>
@@ -25,6 +25,11 @@
           <img src="path/to/image3.jpg" alt="Product 3" class="w-full h-48 object-cover rounded-t-lg">
           <h3 class="text-lg font-semibold mt-2">Product 3</h3>
           <p class="mt-1">Description of product 3.</p>
+        </div>
+        <div class="bg-white rounded-lg shadow-lg p-4">
+          <img src="path/to/image3.jpg" alt="Product 4" class="w-full h-48 object-cover rounded-t-lg">
+          <h3 class="text-lg font-semibold mt-2">Product 4</h3>
+          <p class="mt-1">Description of product 4.</p>
         </div>
       </div>
     </section>
