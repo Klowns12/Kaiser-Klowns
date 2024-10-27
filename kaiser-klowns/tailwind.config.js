@@ -1,7 +1,12 @@
 module.exports = {
   content: ['./src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'engravers': ['Engravers MT', 'serif'],
+      },
+    },
   },
+  variants: {},
   plugins: [],
 }
